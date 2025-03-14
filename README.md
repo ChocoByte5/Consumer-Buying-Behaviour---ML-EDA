@@ -1,5 +1,5 @@
 # Consumer-Buying-Behaviour---ML-EDA
- Overview
+# Overview
 
 This project analyzes consumer purchasing behavior using machine learning techniques and exploratory data analysis (EDA). Various classification models were applied, including Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting. After hyperparameter tuning, the best-performing model was Random Forest with an accuracy of 93.75%.
 
